@@ -4,7 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello World!");
+console.log(5);
+console.log(5+2);
+console.log("This is message 1");
+console.log("This is message 2");
+console.log("Message 3 " + " and Message 4 on the same line");
+console.log('The Raven said "Nevermore".');
+console.log("other, This is Fun.");
 
 /*  
 Next, PLAY! 
